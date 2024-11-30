@@ -1,4 +1,4 @@
 {
-    "autoclean": true,
-    "upgrade": "http://192.168.21.12:31000/public/netcore.txt"
+    "autoclean": false,
+    "upgrade": ""
 }
